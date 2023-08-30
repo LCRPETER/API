@@ -1,0 +1,28 @@
+{
+  "[python]": {
+    "editor.formatOnType": true
+  },
+
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "One Dark Pro Flat",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.wordWrap": "on",
+  "git.openRepositoryInParentFolders": "never",
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "window.zoomLevel": 1,
+  "workbench.settings.applyToAllProfiles": []
+}
