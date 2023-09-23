@@ -4,7 +4,8 @@
   padding: 0;
   list-style-type: none;
   text-align: center;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  outline: none;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, s ans-serif;
 }
 
 body {
@@ -24,7 +25,6 @@ input {
   border: 1px solid rgb(235, 244, 242);
   background: rgb(235, 244, 242);
   color: #16d9e7;
-  outline: none;
   border-radius: 5px;
   height: 30px;
   margin: 10px 0 5px;
@@ -51,7 +51,7 @@ input:focus {
   box-shadow: 0 1px 10px rgba(0, 0, 0, 0.084);
 }
 h2 {
-  margin: 6px 0;
+  margin: 6px auto;
   color: #16d9e7;
 }
 p {
